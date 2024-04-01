@@ -1,0 +1,10 @@
+1. What models do u use ?
+Random forest, Logestistic Regression
+
+
+2.What is accuracy for your model ?
+r2_score
+
+
+3.What are other metresis to measure the accuracy
+
